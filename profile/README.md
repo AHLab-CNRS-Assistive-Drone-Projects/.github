@@ -2,7 +2,7 @@
   <img src="assets/drone-buddy-hands.jpeg" alt="Drone Buddy gesture-based lab demo with a small Tello drone in flight" width="100%">
 </p>
 
-# AHLab-CNRS Assistive Drone Projects
+# CNRS-IPAL+AHLab Assistive Drone Projects
 
 A curated collection of research code, experiments, and demo tools for assistive drone interaction.
 
